@@ -1478,22 +1478,7 @@
         "quantity": 1,
         "size": "S, M, L XL"
         },
-        {
-        "category_id": 4,
-        "category_name": "fashion",
-        "image": "https://i.ibb.co/Ycj8SQ2/c2f004c4ccf6.jpg",
-        "brand": "ANNU PARIDHAN",
-        "description": "Embroidered Rayon Blend Stitched Anarkali Gown",
-        "color": "Green",
-        "new_price": 379,
-        "old_price": 2199,
-        "discount": 82,
-        "delivery_type": "Free delivery",
-        "hidden_stars": 4,
-        "item_id": 55,
-        "quantity": 1,
-        "size": "S, M, L XL"
-        },
+        
         {
         "category_id": 4,
         "category_name": "fashion",
@@ -1571,22 +1556,6 @@
         "delivery_type": "Free delivery",
         "hidden_stars": 4.2,
         "item_id": 60,
-        "quantity": 1,
-        "size": "S, M, L XL"
-        },
-        {
-        "category_id": 4,
-        "category_name": "fashion",
-        "image": "https://i.ibb.co/PQv2Vqk/ffe41ec74df6.jpg",
-        "brand": "FTC FASHIONS",
-        "description": "Girls Calf Length Casual Dress",
-        "color": "Blue, 3/4 Sleeve",
-        "new_price": 179,
-        "old_price": 799,
-        "discount": 77,
-        "delivery_type": "Free delivery",
-        "hidden_stars": 3.8,
-        "item_id": 61,
         "quantity": 1,
         "size": "S, M, L XL"
         },
