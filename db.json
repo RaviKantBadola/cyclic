@@ -2,47 +2,6 @@
     "todo":[],
       "men":[
         {
-        "id": 1,
-        "quantity": 1,
-        "Category_name": "Men",
-        "Sub_category_name": "Clothing",
-        "Sub_category_Type": "T-Shirt",
-        "Brand": "ADIDAS",
-        "Title": "Solid Men Round Neck Dark Blue T-Shirt",
-        "imageUrl": [
-        "https://rukminim1.flixcart.com/image/540/648/kq9ta4w0/t-shirt/c/m/9/m-723-5-ftx-original-imag4bhzme8zjc3j.jpeg?q=50",
-        "https://rukminim1.flixcart.com/image/540/648/kq9ta4w0/t-shirt/c/m/9/m-723-5-ftx-original-imag4bhzme8zjc3j.jpeg?q=50",
-        "https://rukminim1.flixcart.com/image/540/648/kq9ta4w0/t-shirt/c/m/9/m-723-5-ftx-original-imag4bhzme8zjc3j.jpeg?q=50"
-        ],
-        "price": {
-        "MRP": 2999,
-        "Final_Price": 1599,
-        "Discount": 50
-        },
-        "Size": [
-        "S",
-        "M",
-        "L",
-        "XL"
-        ],
-        "Rating_Star": 4.4,
-        "reviews": 591,
-        "rating": 6764,
-        "Colour": "White",
-        "Gender": "Men",
-        "Assured": true,
-        "Trending": true,
-        "Free_Delivery": true,
-        "Popularity": true,
-        "Newest_First": true,
-        "AVAILABILITY": true,
-        "Buy_More_Save_More": true,
-        "No Cost EMI": true,
-        "Special_Price": true,
-        "Top_Discount_on_Sale": true,
-        "Saver_Deal": false
-        },
-        {
         "id": 2,
         "quantity": 1,
         "Category_name": "Men",
@@ -247,44 +206,7 @@
         "Top_Discount_on_Sale": true,
         "Saver_Deal": false
         },
-        {
-        "id": 7,
-        "quantity": 1,
-        "Category_name": "Men",
-        "Sub_category_name": "Clothing",
-        "Sub_category_Type": "Shirt",
-        "Brand": "WROGN",
-        "Title": "Men Slim Fit Solid Casual Shirt",
-        "imageUrl": [
-        "https://rukminim1.flixcart.com/image/832/832/j5bceq80/shirt/y/d/h/xl-1758578-wrogn-original-imaev3t28z5sqjxz.jpeg?q=70",
-        "https://rukminim1.flixcart.com/image/832/832/j5bceq80/shirt/y/d/h/xl-1758578-wrogn-original-imaev3t2ggyzxxhy.jpeg?q=70",
-        "https://rukminim1.flixcart.com/image/832/832/j5bceq80/shirt/y/d/h/xl-1758578-wrogn-original-imaev3t2cas7m2qt.jpeg?q=70"
-        ],
-        "price": {
-        "MRP": 2099,
-        "Final_Price": 859,
-        "Discount": 59
-        },
-        "Size": [
-        "XL"
-        ],
-        "Rating_Star": 3.9,
-        "reviews": 10,
-        "rating": 108,
-        "Colour": "Green",
-        "Gender": "Men",
-        "Assured": true,
-        "Trending": true,
-        "Free_Delivery": true,
-        "Popularity": true,
-        "Newest_First": true,
-        "AVAILABILITY": true,
-        "Buy_More_Save_More": true,
-        "No Cost EMI": true,
-        "Special_Price": true,
-        "Top_Discount_on_Sale": true,
-        "Saver_Deal": false
-        },
+        
         {
         "id": 8,
         "quantity": 1,
