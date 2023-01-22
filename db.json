@@ -2,7 +2,7 @@
     "todo":[],
       "men":[
         {
-        "id": 2,
+        "item_id": 1,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -43,7 +43,7 @@
         "Saver_Deal": false
         },
         {
-        "id": 3,
+        "item_id": 2,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -84,7 +84,7 @@
         "Saver_Deal": false
         },
         {
-        "id": 4,
+        "item_id": 3,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -125,7 +125,7 @@
         "Saver_Deal": true
         },
         {
-        "id": 5,
+        "item_id": 65,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -166,7 +166,7 @@
         "Saver_Deal": false
         },
         {
-        "id": 6,
+        "item_id": 4,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -208,7 +208,7 @@
         },
         
         {
-        "id": 8,
+        "item_id": 5,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -249,7 +249,7 @@
         "Saver_Deal": false
         },
         {
-        "id": 9,
+        "item_id": 6,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -288,7 +288,7 @@
         "Saver_Deal": false
         },
         {
-        "id": 10,
+        "item_id": 6,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -328,7 +328,7 @@
         "Saver_Deal": false
         },
         {
-        "id": 11,
+        "item_id": 7,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
@@ -369,7 +369,7 @@
         "Saver_Deal": false
         },
         {
-        "id": 12,
+        "item_id": 8,
         "quantity": 1,
         "Category_name": "Men",
         "Sub_category_name": "Clothing",
