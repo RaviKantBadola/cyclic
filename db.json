@@ -2889,8 +2889,6 @@
 "location": "Nagpur",
 "price": 16000,
 "category": "Realme",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230105164450-36518.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230105164450-41229.png",
 "description": "REALME X2 PRO (MASTER EDITION) EXCELLENT CONDITION ORIGINAL DISPLAY",
@@ -2898,8 +2896,6 @@
 "Storage": "256GB",
 "Color": "RED BRICK",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
 },
 {
 "id": 2,
@@ -2909,8 +2905,6 @@
 "location": "Pune",
 "price": 31999,
 "category": "Iphone",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118173944-97277.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/small/20230118173944-82131.png",
 "description": "Iphone 11 64 GB",
@@ -2918,8 +2912,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 3,
@@ -2929,8 +2922,6 @@
 "location": "Raipur",
 "price": 17500,
 "category": "Samsung",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20221227174342-12163.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20221227174342-17889.png",
 "description": "SAMSUNG S20 FE 8/128",
@@ -2938,8 +2929,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 4,
@@ -2949,8 +2939,7 @@
 "location": "Pune",
 "price": 13999,
 "category": "Samsung",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116161453-51653.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116161453-84607.png",
 "description": "Samsung note 10 8/256 GB",
@@ -2958,8 +2947,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Pune, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 5,
@@ -2969,8 +2957,8 @@
 "location": "Raipur",
 "price": 41000,
 "category": "Iphone",
-"Details": [
-{
+
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230108073753-30554.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230108073753-66148.png",
 "description": "IPHONE 12",
@@ -2978,8 +2966,7 @@
 "Storage": "256GB",
 "Color": "Blue",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store,Raipur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 6,
@@ -2989,8 +2976,7 @@
 "location": "Raipur",
 "price": 26500,
 "category": "One plus",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230108075726-9938.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118172920-43945.png",
 "description": "ONE PLUS 8",
@@ -2998,8 +2984,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 7,
@@ -3009,8 +2994,6 @@
 "location": "Delhi",
 "price": 36000,
 "category": "Google pixel",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118164420-52014.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118164420-52014.png",
 "description": "Google pixel a premium 6 pro model 12gb ram 5G 128",
@@ -3018,8 +3001,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 8,
@@ -3029,8 +3011,6 @@
 "location": "Delhi",
 "price": 11998,
 "category": "Samsung",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118160149-39234.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118160149-41621.png",
 "description": "Samsung S10E galaxy to Galaxy S20",
@@ -3038,8 +3018,7 @@
 "Storage": "256GB",
 "Color": "Silver",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 9,
@@ -3049,8 +3028,6 @@
 "location": "Ahmedabad",
 "price": 48490,
 "category": "One plus",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-88687.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-27701.png",
 "description": "OnePlus 10 Pro (12-256gb)",
@@ -3058,8 +3035,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 10,
@@ -3069,8 +3045,7 @@
 "location": "Raipur",
 "price": 80000,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116174557-64042.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116174557-36804.png",
 "description": "IPhone 14 Pro Max 128GB",
@@ -3078,8 +3053,7 @@
 "Storage": "256GB",
 "Color": "White",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 11,
@@ -3089,8 +3063,6 @@
 "location": "Ahmedabad",
 "price": 41999,
 "category": "Iphone",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114182522-97437.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116174004-45061.png",
 "description": "iphone 11pro max. 64gb gold colour",
@@ -3098,8 +3070,7 @@
 "Storage": "256GB",
 "Color": "Gold",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 12,
@@ -3109,8 +3080,6 @@
 "location": "Ahmedabad",
 "price": 27499,
 "category": "Iphone",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118082350-53342.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114183215-51463.png",
 "description": "iPhone Xs Max 64gb. & 256gb ",
@@ -3118,8 +3087,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 13,
@@ -3129,8 +3097,6 @@
 "location": "Ahmedabad",
 "price": 36999,
 "category": "One plus",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-27701.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-88687.png",
 "description": "ONEPLUS 9 pro. 12/256gb",
@@ -3138,8 +3104,7 @@
 "Storage": "256GB",
 "Color": "Deep Blue",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 14,
@@ -3149,8 +3114,7 @@
 "location": "Ahmedabad",
 "price": 68999,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115180544-31450.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114182235-30910.png",
 "description": "iPhone 13Pro 128gb gold colour",
@@ -3158,8 +3122,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 15,
@@ -3169,8 +3132,7 @@
 "location": "Ahmedabad",
 "price": 37999,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115175555-42635.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114181821-19976.png",
 "description": "iPhone 12 64gb",
@@ -3178,8 +3140,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 16,
@@ -3189,8 +3150,7 @@
 "location": "Ahmedabad",
 "price": 49999,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230112131447-40960.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230112131447-35557.png",
 "description": "iPhone 13 128gb Blue colour",
@@ -3198,8 +3158,8 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
+
 },
 {
 "id": 17,
@@ -3209,8 +3169,7 @@
 "location": "Ahmedabad",
 "price": 13999,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114183215-51463.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114181211-23151.png",
 "description": "iphone 8 64gb gold colour",
@@ -3218,8 +3177,8 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
+
 },
 {
 "id": 18,
@@ -3229,8 +3188,7 @@
 "location": "Ahmedabad",
 "price": 13999,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114181211-23151.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114181211-64047.png",
 "description": "Iphone 8 64gb & 256gb",
@@ -3238,8 +3196,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 19,
@@ -3249,8 +3206,6 @@
 "location": "Ahmedabad",
 "price": 46999,
 "category": "Samsung",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114180044-4914.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114180044-12837.png",
 "description": "Samsung galaxy S21 ultra 12/256gb",
@@ -3258,8 +3213,6 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
 },
 {
 "id": 20,
@@ -3269,8 +3222,7 @@
 "location": "Delhi",
 "price": 24999,
 "category": "Oppo",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114173142-14939.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114173142-43347.png",
 "description": "Oppo Reno 8(5G)",
@@ -3278,8 +3230,8 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
+
 },
 {
 "id": 21,
@@ -3289,8 +3241,7 @@
 "location": "Delhi",
 "price": 19999,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114161105-37995.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114161105-12588.png",
 "description": "Apple iPhone XR 64gb Storage Capacity",
@@ -3298,8 +3249,8 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
+
 },
 {
 "id": 22,
@@ -3309,8 +3260,6 @@
 "location": "Delhi",
 "price": 1500,
 "category": "Samsung",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114160436-6855.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114160436-85891.png",
 "description": "Samsung galaxy garand",
@@ -3318,8 +3267,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 23,
@@ -3329,8 +3277,7 @@
 "location": "Kolkata",
 "price": 25000,
 "category": "Realme",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113181758-45648.jpeg",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113181758-2691.jpeg",
 "description": "Mi 11x 8/128",
@@ -3338,8 +3285,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 24,
@@ -3349,8 +3295,6 @@
 "location": "Delhi",
 "price": 45999,
 "category": "Iphone",
-"Details": [
-{
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121823-63711.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121823-63711.png",
 "description": "IPhone 12 PRO -128 GB",
@@ -3358,8 +3302,8 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
+
 },
 {
 "id": 25,
@@ -3369,8 +3313,7 @@
 "location": "Delhi",
 "price": 69999,
 "category": "Iphone",
-"Details": [
-{
+
 "img1": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121520-15829.png",
 "img2": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121520-15829.png",
 "description": "APPLE IPHONE 13 PRO -128 GB WITH BILL AND WARRANTY",
@@ -3378,8 +3321,7 @@
 "Storage": "256GB",
 "Color": "Deep Black",
 "Address": "Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
-}
-]
+
 },
 {
 "id": 26,
